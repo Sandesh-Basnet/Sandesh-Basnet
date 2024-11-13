@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi there, I'm Sandesh Basnet 👋
 
-<!--
-**Sandesh-Basnet/Sandesh-Basnet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+I'm a Grade 12 student from Nepal with a passion for hacking and programming. I love exploring new technologies and working on exciting projects.
 
-Here are some ideas to get you started:
+## Skills
+- **Languages**: Python, JavaScript, C, QBASIC, HTML, CSS
+- **Tools**: Git, Linux
+- **Technologies**: Web Development, Cybersecurity, Machine Learning
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Contact Me
+- **Email**: basnetsandesh249@gmail.com
+- **LinkedIn**: @sanddyy
+- **Instagram**: @sande_sh21_
+
+Thanks for visiting my profile!
