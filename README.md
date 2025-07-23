@@ -9,7 +9,7 @@ I'm a Grade 12 student from Nepal with a passion for hacking and programming. I 
 - **Technologies**: Web Development, Cybersecurity, Machine Learning
 
 ## Contact Me
-- **Email**: basnetsandesh249@gmail.com
+- **Email**: sanddy.basnet@gmail.com
 - **LinkedIn**: @sanddyy
 - **Instagram**: @sande_sh21_
 
