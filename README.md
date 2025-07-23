@@ -1,7 +1,7 @@
 # Hi there, I'm Sandesh Basnet 👋
 
 ## About Me
-I'm a Grade 12 student from Nepal with a passion for hacking and programming. I love exploring new technologies and working on exciting projects.
+I'm a student of Cybersecurity in Herald College Kathmandu from Nepal with a passion for hacking and programming. I love exploring new technologies and working on exciting projects.
 
 ## Skills
 - **Languages**: Python, JavaScript, C, QBASIC, HTML, CSS
