@@ -11,6 +11,7 @@ I'm a student of Cybersecurity in Herald College Kathmandu from Nepal with a pas
 ## Contact Me
 - **Email**: sanddy.basnet@gmail.com
 - **LinkedIn**: @sanddyy
-- **Instagram**: @sande_sh21_
+- **Instagram**: @lensofdesh
+- **TryHackMe**:@sandyyyyy
 
 Thanks for visiting my profile!
