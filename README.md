@@ -1,4 +1,3 @@
-<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=4874276" style='border:none;'></iframe>
 # Hi there, I'm Sandesh Basnet 👋
 
 ## About Me
